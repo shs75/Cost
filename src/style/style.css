@@ -1,0 +1,37 @@
+.main{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        width: 40%;
+        margin: auto;
+            
+        
+    }
+    .cost{
+        width: 40%;
+        margin: auto;
+        margin-top: 20px;
+        display: flex;
+        border-radius: 13px;
+        background-color: rgba(202, 186, 186, 0.801);
+    }
+    .span{
+        width: 50px;
+        height: 50px;
+        padding: 15px;
+        text-align: center;
+        display: flex;
+    }
+    .span2{
+        width: 50px;
+        height: 50px;
+        padding: 15px;
+        text-align: center;
+        display: flex;
+    }
+.btn{
+    display: inline;
+}
+.btn :hover{
+    color: #bea88b;
+}
